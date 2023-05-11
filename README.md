@@ -86,7 +86,7 @@ Implementation of shimmerEffect Modifier extension in activity
 ## Project Structure
 
 ```bash
-qrCodeAnalyzer-kotlin/
+shimmerEffect-kotlin/
 ├── app/                        # This folder contains the main application logic and components.
 | ├── src/                      # This folder contains the source code for the app.
 | | ├── main/                   # This folder contains the main logic of the app.
