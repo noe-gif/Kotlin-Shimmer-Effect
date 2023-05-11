@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Target%20SDK-30%20(Android%2011)-566573?logo=android&logoColor=white)
 [![Crowdin](https://badges.crowdin.net/inure/localized.svg)](https://crowdin.com/project/inure)
 
-# QR code scanner
+# Kotlin Jetpack Compose extension
 
 This extension will take any kind of composable unit in parameter and apply to it's shape a shimmer styles animation. Often seen when loading interface components in today's software.
 
